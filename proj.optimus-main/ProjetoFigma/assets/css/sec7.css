@@ -1,0 +1,23 @@
+.h1sec7{
+    font-size: 36px;
+}
+.psec7{
+    font-size: 20px;
+}
+.divsec7{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.divsec72{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inputsec7{
+    height: 40px;
+    width: 360px;
+}
+.sec7{
+    background-color: #F9FAFB;
+}
