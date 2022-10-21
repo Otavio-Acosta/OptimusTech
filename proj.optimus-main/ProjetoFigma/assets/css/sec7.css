@@ -21,3 +21,9 @@
 .sec7{
     background-color: #F9FAFB;
 }
+::placeholder{
+    padding-left: 10px;
+}
+.direitos{
+    font-size: 16px;
+}
